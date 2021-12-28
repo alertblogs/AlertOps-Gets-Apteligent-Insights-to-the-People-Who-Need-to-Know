@@ -1,41 +1,27 @@
-AlertOps Expert Guidance
+AlertOps Gets Apteligent Insights to the People Who Need to Know
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Apteligent helps mobile app developers track, analyze, and visualize crash and performance data for their apps. Apteligent provides an app health dashboard for mobile apps. Apteligent can also combine multiple app health dashboards into a single, multi-app dashboard that helps you compare app performance and crash data and share critical information across development and support teams.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+In order to properly utilize the wealth of information that Apteligent provides, you need a way to push notifications about these insights out to your teams. Otherwise, Apteligent could end up becoming a whiteboard tool for weekly meetings.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+With AlertOps, you can automate the delivery and routing of app health notifications. This integration enables you to identify critical performance and crashes and initiate the proper response to app health insights.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Here’s how alertOps expands Apteligent’s capabilities:
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+    Analyze real-world app performance metrics, and immediately alert your team of critical performance issues. This helps you evaluate the rollout of new releases and features, and minimize app abandonment if there are any hiccups.
+    Correlate app performance metrics with marketing response, generate reports and statistical analysis for better data driven decision making, and alert key decision makers based on what analytic insights reveal.
+    Discover the impact that network performance, third-party services, and SDKs have on end-user experience, and quickly reallocate resources to the most pressing tasks.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+With Apteligent and AlertOps, your company always has the most up-to-date app performance data, and the right people always have the information they need, when they need it.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+AlertOps integrates with Apteligent through the Generic REST API, so app performance data and insights can be passed directly from your analytics tools to your communications and management system, without the need for external tools or plugins.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+Find out more about how AlertOps can improve your mobile application analytics in the AlertOps help center.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
-
+https://alertops.com/alertops-and-apteligent-integration/
 Read more:
 ====
 
